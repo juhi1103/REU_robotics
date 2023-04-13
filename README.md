@@ -1,4 +1,4 @@
-# Robotics Research Project 
+# Robotics Research Project 🤖 
 
 There are various methods to maneuver a robot to push, grasp, pivot, or pull a certain object. 
 The two main methods are prehensile and nonprehensile manipulation. 
