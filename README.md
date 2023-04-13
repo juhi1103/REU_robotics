@@ -19,6 +19,6 @@ Cube Results:
 Majority of the cubes were between 0 cm and 0.43 cm from the target point 
 The pushing for cubes algorithm is highly accurate 
 
-![image](![ezgif com-video-to-gif](https://user-images.githubusercontent.com/67602583/231619316-f2907e85-19ca-49de-9243-f86d97f8aa91.gif)
+(![ezgif com-video-to-gif](https://user-images.githubusercontent.com/67602583/231619316-f2907e85-19ca-49de-9243-f86d97f8aa91.gif)
 
    
